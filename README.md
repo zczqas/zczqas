@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zczqas&label=Profile%20views&color=0e75b6&style=flat" alt="zczqas" /> </p>
 
-<!-- - 🔭 I’m currently working on [AskDB](https://github.com/zczqas/AskDB) -->
+🔭 I’m currently working on [Interpreter in Go](https://github.com/zczqas/interpreter-in-go)
 
 - 📫 How to reach me **limbusanchar76@gmail.com**
 
