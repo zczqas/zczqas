@@ -45,8 +45,6 @@
 
 <div align="center">
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/zczqas/zczqas/output/snake.svg" alt="Snake animation" />
 
 </div>
