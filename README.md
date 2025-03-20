@@ -50,6 +50,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlyNG1qYmQ0aTZjenN4aWFkY3V5dTY4NzI3cTlwdjEyMzF2ZW5vaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRjGzBZmyvZ9lmM/giphy.gif" />
+  <img height="150" src="https://media.tenor.com/Vi3igSsjtdMAAAAi/hu-tao-music.gif" />
+<!--   https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=2s9r6yn4pu1yp1ud2zkkucym0&count=3" alt="Spotify recently played" height="150" />
 </div>
