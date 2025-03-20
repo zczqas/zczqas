@@ -50,5 +50,6 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2s9r6yn4pu1yp1ud2zkkucym0&count=3" alt="Spotify recently played" height="150" />  
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N1eGt6aXh3bTVnZDc2bHJodHo4eDdmMTlsc2FobGh1bWJuMTQ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efezhDCJ8FwHtXl67I/giphy.gif" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2s9r6yn4pu1yp1ud2zkkucym0&count=3" alt="Spotify recently played" height="150" />
 </div>
