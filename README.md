@@ -49,8 +49,8 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <img height="150" src="https://media.tenor.com/Vi3igSsjtdMAAAAi/hu-tao-music.gif" />
 <!--   https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2s9r6yn4pu1yp1ud2zkkucym0&count=3" alt="Spotify recently played" height="150" />
+  <!--<img src="https://spotify-recently-played-readme.vercel.app/api?user=2s9r6yn4pu1yp1ud2zkkucym0&count=3" alt="Spotify recently played" height="150" />
 </div>
