@@ -41,6 +41,7 @@ th vistor!
 #### 🖨️ Workspace
 [![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=for-the-badge)](https://system76.com/pop/)
 [![PyCharm](https://img.shields.io/badge/PyCharm_Community-0078D4?&style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=for-the-badge)](https://zed.dev/)
 
 ###
 
