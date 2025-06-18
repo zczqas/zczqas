@@ -33,14 +33,11 @@ th vistor!
 </div>
 
 ---
-
 #### 👁️‍🗨️ Find ME
-
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:limbusanchar76@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0072B1&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/sanchar-limbu)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/sanchar-limbu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:limbusanchar76@gmail.com)
 
 ---
-
 #### 🖨️ Workspace
 [![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=for-the-badge)](https://system76.com/pop/)
 [![PyCharm](https://img.shields.io/badge/PyCharm_Community-0078D4?&style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
