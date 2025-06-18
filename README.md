@@ -1,4 +1,4 @@
-### Hi 👋! This is Sanchar Limbu.
+### 👋 Hi There! This is Sanchar Limbu.
 
 <p align="center">
 Welcome, the
