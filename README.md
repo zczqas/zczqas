@@ -2,7 +2,7 @@
 
 <p align="center">
 Welcome, the
-<a href="https://github.com/zczqas" target="_blank"><img src="https://count.getloli.com/@zczqas?name=zczqas&theme=miku&padding=5" alt="Visitor Counter"></a>
+<a href="https://github.com/zczqas" target="_blank"><img src="https://count.getloli.com/@zczqas?name=zczqas&theme=rule34" alt="Visitor Counter"></a>
 th vistor!
 </p>
 
