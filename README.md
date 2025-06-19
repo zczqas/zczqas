@@ -7,10 +7,12 @@ th vistor!
 </p>
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zczqas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ambient_gradient&hide_border=false" height="150" alt="languages graph"  />
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk5Z21qaWhjMXM3bzVsdXdwNXdsajlxNWdmcHNrYmpwbHVsdjh6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M1gGAePaGaixPzFVoD/giphy.gif"  />
-</div>
+#### ✅ About ME
+* I am a 22-year-old Nepalese Uni student with a some programming knowledge.
+* Learning Language: Python, Go, Scala
+* Nothing can be brought to the stage.
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=zczqas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false)
 
 ###
 
