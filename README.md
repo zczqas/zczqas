@@ -8,7 +8,7 @@ th vistor!
 
 ---
 #### ✅ About ME
-* I am a 22-year-old Nepalese Uni student with a some programming knowledge.
+* I am a 22-year-old student with a some programming knowledge.
 * Learning Language: Python, Go, Scala
 * Nothing can be brought to the stage.
 
