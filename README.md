@@ -12,7 +12,8 @@ th vistor!
 * Learning Language: Python, Go, Scala
 * Nothing can be brought to the stage.
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=zczqas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=zczqas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false)ob -->
+
 
 ---
 #### 💻 Tech Stack
