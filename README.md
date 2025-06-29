@@ -41,6 +41,10 @@ th vistor!
   <img src="https://raw.githubusercontent.com/zczqas/zczqas/output/snake.svg" alt="Snake animation" />
 </div>
 
+---
+[![Sanchar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zczqas&days=30&bg_color=1e1e2e&color=CBA6F7&line=CBA6F7&point=45475A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!-- <div align="center">
   <img height="150" src="https://media.tenor.com/Vi3igSsjtdMAAAAi/hu-tao-music.gif" />
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2s9r6yn4pu1yp1ud2zkkucym0&count=3" alt="Spotify recently played" height="150" />
