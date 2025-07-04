@@ -20,7 +20,7 @@ th vistor!
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white&style=for-the-badge)](#)
-[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white&style=for-the-badge)](#)
+<!-- [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white&style=for-the-badge)](#) -->
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff&style=for-the-badge)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff&style=for-the-badge)](#)
 
