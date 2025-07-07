@@ -9,7 +9,7 @@ th vistor!
 ---
 #### ✅ About ME
 * I am a 22-year-old student with some programming knowledge.
-* Learning Language: Python, Go, Scala
+* Learning Language: Python, Go
 * Nothing can be brought to the stage.
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=zczqas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false)ob -->
