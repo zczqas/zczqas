@@ -29,9 +29,8 @@ th vistor!
 
 ---
 #### 🖨️ Workspace
-[![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=for-the-badge)](#)
 [![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](#)
-[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=for-the-badge)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge)](#)
 [![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge)](https://tmuxcheatsheet.com/)
 
 ----
